@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": "UAC-0001",
+      "fullName": "Ana María Quispe Condori",
+      "email": "a.quispe@uandina.edu.pe",
+      "cycle": 7,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0002",
+      "fullName": "Juan Carlos Huanca Mamani",
+      "email": "j.huanca@uandina.edu.pe",
+      "cycle": 5,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0003",
+      "fullName": "Lucía Fernanda Vargas Torres",
+      "email": "l.vargas@uandina.edu.pe",
+      "cycle": 8,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0004",
+      "fullName": "Carlos Enrique Flores Ccama",
+      "email": "c.flores@uandina.edu.pe",
+      "cycle": 3,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0005",
+      "fullName": "Paola Beatriz Suca Apaza",
+      "email": "p.suca@uandina.edu.pe",
+      "cycle": 6,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0006",
+      "fullName": "Diego Alejandro Ramos Cusihuaman",
+      "email": "d.ramos@uandina.edu.pe",
+      "cycle": 4,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0007",
+      "fullName": "Valeria Mishel Ttito Quispe",
+      "email": "v.ttito@uandina.edu.pe",
+      "cycle": 9,
+      "photoUrl": null
+    },
+    {
+      "id": "UAC-0008",
+      "fullName": "Sebastian Rodrigo Puma Ccallo",
+      "email": "s.puma@uandina.edu.pe",
+      "cycle": 2,
+      "photoUrl": null
+    }
+  ]
+}

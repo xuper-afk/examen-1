@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "examen_1 (Flutter Pixel 4)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "args": [],
+            "flutterMode": "debug"
+        }
+    ]
+}
