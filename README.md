@@ -112,3 +112,5 @@ flutter_lab01_base/
 ---
 
 *Universidad Andina del Cusco — Departamento de Ingeniería de Sistemas — 2026*
+
+ya aprendi a subir todo el proyecto en mis guias no pude espero me perdone
